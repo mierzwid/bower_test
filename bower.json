@@ -1,0 +1,21 @@
+{
+  "name": "pViz",
+  "version": "0.0.1",
+  "description": "testing bower",
+  "main": "src\\pVis.js",
+  "keywords": [
+    "pViz",
+    "bioinfotmaticts"
+  ],
+  "authors": [
+    "mierzwid"
+  ],
+  "license": "BST 2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
